@@ -1,0 +1,17 @@
+{
+  "name": "bad_romance_frames",
+  "version": "1.0.0",
+  "description": "Getting RGB values for my robot dancing to Bad Romance by Lady Gaga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Makes",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "jimp": "^1.6.0",
+    "png-js": "^1.0.0"
+  }
+}
